@@ -1,6 +1,6 @@
 ## Markdownについて
 
-[基本的な書き方とフォーマットの構文](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[基本的な書き方とフォーマットの構文(docs.github.com)](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Markdown(とその派生)が継続して使われている理由
 記法の選択と集中がMarkdownの特徴であるため、方言もMarkdownの特徴を失わない様に工夫されているから
